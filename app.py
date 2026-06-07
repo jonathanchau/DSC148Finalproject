@@ -9,7 +9,7 @@ st.set_page_config(page_title="News Virality Predictor", page_icon="📰", layou
 # Load the trained Pipeline safely
 @st.cache_resource
 def load_pipeline():
-    return joblib.load('news_model.pkl')
+    return joblib.load('robust_news_model.pkl')
 
 try:
     pipeline = load_pipeline()
