@@ -3,7 +3,7 @@
 This repository contains the code and live web application for the DSC 148 Final Project.
 
 ## 🚀 Live Interactive Demo
-**[Click here to access the live web application](https://dsc148finalproject-x7sczw99xfgdgppfylg42s.streamlit.app/)**
+**[Live Application](https://dsc148finalproject-ehezcekyccrpbcawpyyymx.streamlit.app/)**
 
 ## Project Overview
 This project predicts whether a published news article will achieve high social media engagement (60+ shares) across Facebook, Google+, and LinkedIn. 
